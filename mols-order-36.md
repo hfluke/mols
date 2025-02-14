@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-<style>
-html { font-size: 12pt; }
-table { border-collapse: collapse; margin-bottom: 8px }
-td { border: 2px solid black; text-align: center; }
-</style>
-<body>
 <h1>3 Mutually Orthogonal Latin Squares of Order 36</h1>
 <table style="width: 100%";>
 <tr>
@@ -4117,5 +4109,3 @@ td { border: 2px solid black; text-align: center; }
 <td style="background-color: rgb(220, 20, 44);">28</td>
 </tr>
 </table>
-</body>
-</html>
