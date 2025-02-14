@@ -14,4 +14,8 @@ No mutually orthogonal Latin squares exist for a $6 \times 6$ grid. This problem
 
 ### Constructing my $36 \times 36$ MOLS 
 
-I constructed my Latin squares using several abstract algebra theorems. I constructed a finite fields of order 9 and order 4. Additionally, I derived opperation tables for both finite fields. I was then able to create $n-1$ Latin squares for each finite field using the opperation tables. Each $36 \times 36$ MOLS was created by taking the Kronecker product of an order 9 Latin square with an order 4 Latin square. I want to thank Dr. David E. Brown for teaching me all the math I needed to know in order to create these Latin squares.
+I constructed my Latin squares using several abstract algebra theorems. I constructed a finite fields of order 9 and order 4. Additionally, I derived opperation tables for both finite fields. I was then able to create $n-1$ Latin squares for each finite field using the opperation tables. Each $36 \times 36$ MOLS was created by taking the Kronecker product of an order 9 Latin square with an order 4 Latin square. 
+
+If the three Latin squares where overlayed on one another, each combination of numbers -- for example (11, 11, 11) -- would occur exactly once. That's 1296 unique tuples!
+
+ I want to thank Dr. David E. Brown for teaching me all the math I needed to know in order to create these Latin squares.
