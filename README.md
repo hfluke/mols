@@ -6,7 +6,7 @@ A _Latin square_ is an $n \times n$ grid containing $n$ district elements in whi
 
 ### Mutually Orthogonal Latin Squares (MOLS)
 
-Two Latin squares are _mutually orthogonal_ if they are the same size and the corresponding gird cell of each Latin square do not contain the same element. Think of this as extending the Sudoku puzzle into three dimentions, (without the requirement that the third dimension must also contain 9 elements). You can learn more about mutually orthogonal Latin squares [here](https://math.libretexts.org/Bookshelves/Combinatorics_and_Discrete_Mathematics/Combinatorics_(Morris)/04%3A_Design_Theory/16%3A_Latin_Squares/16.02%3A_Mutually_Orthogonal_Latin_Squares_(MOLS)).
+Two Latin squares are _mutually orthogonal_ if, where the two Latin squares to be overlayed on another, each distinct element from one Latin square would sit atop each distinct element from the other Latin square exactly once. You can learn more about mutually orthogonal Latin squares [here](https://math.libretexts.org/Bookshelves/Combinatorics_and_Discrete_Mathematics/Combinatorics_(Morris)/04%3A_Design_Theory/16%3A_Latin_Squares/16.02%3A_Mutually_Orthogonal_Latin_Squares_(MOLS)).
 
 ### Fun Fact
 
